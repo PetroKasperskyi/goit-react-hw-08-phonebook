@@ -8,8 +8,8 @@ export const UserMenuWrapper = styled.div`
 `;
 
 export const UserMenuButton = styled.button`
-  background: #d93bd6;
-  border: 1px solid #d93bd6;
+  background: #0a38ce;
+  border: 1px solid #0c41ee;
   border-radius: 6px;
   box-shadow: rgba(0, 0, 0, 0.2) 1px 2px 4px;
   box-sizing: border-box;

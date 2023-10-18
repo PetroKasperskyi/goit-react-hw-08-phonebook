@@ -15,7 +15,7 @@ export const LoginWrapper = styled.div`
   margin: 20px auto;
   width: 400px;
   border-radius: 8px;
-  background-color: #faa7eb;
+  background-color: #a7faea;
 `;
 
 export const LoginTitle = styled.h1`
